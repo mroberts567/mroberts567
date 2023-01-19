@@ -7,5 +7,5 @@
 - SQL
 - Power BI
 - Tableau
-- ArcGIS Desktop and Pro; ArcPy
 - R
+- ArcGIS Desktop and Pro; ArcPy
