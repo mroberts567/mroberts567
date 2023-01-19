@@ -5,6 +5,7 @@
 ### Languages and Tools:
 - Python
 - SQL
-- ArcGIS Desktop and Pro; ArcPy
 - Power BI
+- Tableau
+- ArcGIS Desktop and Pro; ArcPy
 - R
